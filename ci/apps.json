@@ -1,7 +1,7 @@
 [
   {
     "url": "https://github.com/frappe/erpnext.git",
-    "branch": "v14.60.1"
+    "branch": "v14.64.1"
   },
   {
     "url": "https://github.com/frappe/payments.git",
